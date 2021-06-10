@@ -1,1 +1,1 @@
-# Mas9ue's hexo blog.
+# Resource of Mas9ue's blog
